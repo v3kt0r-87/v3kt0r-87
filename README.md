@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @v3kt0r-87
+- 👋 Hi, I’m Shankar
 - 👀 I’m interested in Linux and Android
 - 🌱 I’m currently learning C and Rust
 - 📫 How to reach me - Telegram : https://t.me/VEKTOR_87
