@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Shankar Vallabhan A >> call me VEKTOR
+- 👋 Hi, I’m Shankar Vallabhan >> call me VEKTOR
 - 👀 I’m interested in GNU/Linux and Android
 - 📫 How to reach me ? >> [Telegram](//t.me/VEKTOR_87)
 - Join my Telegram Group >> [Join Group](//t.me/adreno_driver)
