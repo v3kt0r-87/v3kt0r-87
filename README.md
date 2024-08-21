@@ -1,11 +1,33 @@
 # 👋 Hi, I’m Shankar Vallabhan (Call me VEKTOR) 
 
-Welcome to my GitHub profile! 🌟
+## 🌟 About Me
+I am a tech enthusiast with a passion for GNU/Linux and Android.<br> 
 
-## 🚀 About Me
-I'm passionate about GNU/Linux and Android. Here, you'll find my projects, contributions, and some cool stuff I'm working on. 
+Born in June 2001 ( Cancer ♋ ) , my journey began with Windows Phones before moving to Android in 2017.
 
-Feel free to explore my repositories, and don't hesitate to reach out if you have any questions or just want to connect!
+## 💻 Skills
+
+  **Programming: Basic knowledge in C and Bash** <br>
+  
+  **Learning: Currently learning Rust 🦀** <br>
+
+## 🔬 Contributions
+
+  **Kernel Testing: Beta tester for Predator Kernel on Redmi Note 7 (2019-2021)** <br>
+  
+  **Custom ROM Testing: Pixel Experience ROM Beta tester on Redmi Note 7 (2019-2021)** <br>
+
+  **Kernel Testing: ( [REALKING-KERNEL](//github.com/v3kt0r-87/kernel_xiaomi_sm8250) ) Collaborating with [@rohail33](//github.com/Rohail33) to fix bugs and improve build script (2023-present)** <br>
+
+  **Driver Development: Compiling and maintaining my own Turnip Vulkan Driver [Mesa-Turnip-Builder](//github.com/v3kt0r-87/Mesa-Turnip-Builder) (2023-present)** <br>
+
+## 📱 Devices Used
+
+   **Windows Phones: Nokia Lumia 520, 525, 535**<br>
+   
+   **Transition to Android: Micromax Bolt Q400**<br>
+   
+   **Current Devices: Poco F4 5G , Poco X4 Pro**<br>
 
 
 ## 📫 How to Reach Me
