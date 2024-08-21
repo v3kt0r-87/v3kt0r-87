@@ -17,7 +17,7 @@ Born in June 2001 ( Cancer ♋ ) , my journey began with Windows Phones before m
   
   **Custom ROM Testing: Pixel Experience ROM Beta tester on Redmi Note 7 (2019-2021)** <br>
 
-  **Kernel Testing: ( [REALKING-KERNEL](//github.com/v3kt0r-87/kernel_xiaomi_sm8250) ) Collaborating with [@rohail33](//github.com/Rohail33) to fix bugs and improve build script (2023-present)** <br>
+  **Kernel Development: ( [REALKING-KERNEL](//github.com/v3kt0r-87/kernel_xiaomi_sm8250) ) Collaborating with [@rohail33](//github.com/Rohail33) to fix bugs and improve build script (2023-present)** <br>
 
   **Driver Development: Compiling and maintaining my own Turnip Vulkan Driver [Mesa-Turnip-Builder](//github.com/v3kt0r-87/Mesa-Turnip-Builder) (2023-present)** <br>
 
