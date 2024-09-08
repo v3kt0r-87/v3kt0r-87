@@ -1,5 +1,7 @@
 # 👋 Hi, I’m Shankar Vallabhan (Call me VEKTOR) 
 
+<a href="https://stardev.io/developers/v3kt0r-87"><img alt="Check out v3kt0r-87's profile on stardev.io" src="https://stardev.io/developers/v3kt0r-87/badge/languages/locality.svg" /></a>
+
 ## 🌟 About Me
 I am a tech enthusiast with a passion for GNU/Linux and Android.<br> 
 
