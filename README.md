@@ -9,7 +9,7 @@ Born in June 2001 ( Cancer ♋ ) , my journey began with Windows Phones before m
 
   **Programming: Basic knowledge in C and Bash** <br>
   
-  **Learning: Currently learning C++ ** <br>
+  **Learning: Currently learning C++** <br>
 
 ## 🔬 Contributions
 
