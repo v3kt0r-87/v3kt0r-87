@@ -35,7 +35,7 @@ Born in June 2001 ( Cancer ♋ ) , my journey began with Windows Phones before m
 
 ## 🌟 Join My Communities
 - **Personal Telegram Channel:** [V3KT0R87_Channel](https://t.me/V3KT0R87_Channel) 📢
-- **Telegram Group (for all my uploads):** [adreno_driver](https://t.me/adreno_driver) 💾
+- **Telegram Group (for all my uploads):** [adreno_driver](https://t.me/adreno_driver_support_group) 💾
 
 ## Here's a little something to brighten your day! 😎
 
