@@ -27,7 +27,7 @@ Born in June 2001 ( Cancer ♋ ) , my journey began with Windows Phones before m
    
    **Transition to Android: Micromax Bolt Q400**<br>
    
-   **Current Devices: Poco F4 5G , Poco X4 Pro , Redmi Y2 **<br>
+   **Current Devices: Poco F4 5G , Poco X4 Pro , Redmi Y2**<br>
 
 
 ## 📫 How to Reach Me
