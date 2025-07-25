@@ -20,7 +20,7 @@
 
 ## 💻 Skills
 - 🔹 **Programming:** Basic knowledge in **C**, **Python**, and **Bash scripting**.
-- 🔹 **Currently Learning:** Diving deeper into **C / C++**.
+- 🔹 **Currently Learning:** Diving deeper into **Go (Golang)**.
 
 ---
 
@@ -47,7 +47,7 @@
   Micromax Bolt Q400.
 
 - **Current Devices:**  
-  Poco F4 5G, Poco X4 Pro, Redmi Y2.
+  Poco F4 5G , Redmi Y2.
 
 ---
 
