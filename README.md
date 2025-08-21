@@ -47,7 +47,7 @@
   Micromax Bolt Q400.
 
 - **Current Devices:**  
-  Poco F4 5G , Redmi Y2.
+  Poco F4 5G , Nothing CMF 2 Pro 5G , Poco X4 Pro 5G
 
 ---
 
