@@ -3,7 +3,7 @@
 ---
 ## 🌟 About Me
 - 📅 Born: June 2001 (♋ Cancer)
-- 📱 Started my journey with **Windows Phones**, transitioned to **Android** in 2017.
+- 📱 Started my journey with **Windows Phones**, transitioned to **Android** in 2016.
 - 🐧 Hardcore **GNU/Linux** and **Android** enthusiast.
 
 ---
