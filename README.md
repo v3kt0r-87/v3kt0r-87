@@ -39,6 +39,7 @@
   Collaborating with [@Rohail33](https://github.com/Rohail33) on [**REALKING-KERNEL**](https://github.com/v3kt0r-87/kernel_xiaomi_sm8250) (2023-2024) — fixing bugs and improving the build script.
 
 - 🛠 **Driver Development:**  
+  Collaborating with [@MrMiy4mo](https://github.com/ilhan-athn7) on [**freedreno_turnip-CI**](https://github.com/ilhan-athn7/freedreno_turnip-CI) (2023-Present).<br>
   Maintaining my own **Turnip Vulkan Driver** → [**Mesa-Turnip-Builder**](https://github.com/v3kt0r-87/Mesa-Turnip-Builder) (2023–present).
 
 ---
