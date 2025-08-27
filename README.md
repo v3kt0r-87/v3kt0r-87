@@ -1,4 +1,4 @@
-# 👋 Hi, I’m Shankar Vallabhan (Call me **VEKTOR** 🚀)
+# 👋 Hi, I’m Shankar Vallabhan (Call me **VEKTOR**)
 
 ---
 ## 🌟 About Me
