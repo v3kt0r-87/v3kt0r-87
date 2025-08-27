@@ -14,9 +14,11 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=v3kt0r-87&layout=compact&theme=tokyonight&hide_border=true&border_radius=10)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=v3kt0r-87&theme=tokyonight&hide_border=true&border_radius=10)
-
 </div>
+
+
+<a href="https://stardev.io/developers/v3kt0r-87"><img alt="Check out v3kt0r-87&apos;s profile on stardev.io" src="https://stardev.io/developers/v3kt0r-87/badge/languages/country.svg" /></a>
+
 
 ## 💻 Skills
 - 🔹 **Programming:** Basic knowledge in **C**, **Python**, and **Bash scripting**.
