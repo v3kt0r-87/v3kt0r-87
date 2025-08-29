@@ -67,12 +67,10 @@
 
 ---
 
-## 🎉 Here's something to brighten your day!
-
 <div align="center">
-  <img src="https://media1.tenor.com/m/N_OpRO_zqkQAAAAC/arch-arch-linux.gif" width="250" />
-  <img src="https://media.tenor.com/zR7DSqJTks0AAAAi/linux-tux.gif" width="250" />
-  <img src="https://media.tenor.com/S61VCO73mOAAAAAj/linux-tux.gif" width="250" />
+  <img src="https://media.tenor.com/5IWFYb4D1WMAAAAm/swan-hack-dab.webp" width="250" />
+    <img src="https://media.tenor.com/VjsZ54DmWQAAAAAm/android-bugdroid.webp" width="250" />
+    <img src="https://media.tenor.com/bhewUhwCTYYAAAAm/tux-linux-tux.webp" width="250" />
 </div>
 
 ---
