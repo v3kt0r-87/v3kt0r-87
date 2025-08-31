@@ -24,7 +24,7 @@
 
 ## 💻 Skills
 - 🔹 **Programming:** Basic knowledge in **C**, **Python**, and **Bash scripting**.
-- 🔹 **Currently Learning:** Diving deeper into **Go (Golang)**.
+- 🔹 **Currently Learning:** Diving deeper into **Rust**.
 
 ---
 
